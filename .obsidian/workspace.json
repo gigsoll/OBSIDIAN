@@ -11,8 +11,12 @@
             "id": "1959970a2af81dee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Теорія ймовріності/Теорія ймовірності 1 модуль.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Теорія ймовріності/Теорія ймовірності 1 модуль.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Теорія ймовріності/Теорія ймовірності 1 модуль.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Теорія ймовріності/Теорія ймовірності 1 модуль.md"
+              }
             }
           },
           {
@@ -151,8 +159,8 @@
   "active": "1959970a2af81dee",
   "lastOpenFiles": [
     "Тестовий файл для перевірки.md",
-    "Readme.md",
     "Розмітка.md",
+    "Readme.md",
     "Теорія ймовріності/Теорія ймовірності 1 модуль.md",
     "Теорія ймовріності/Теорія ймовірності 2 модуль.md",
     "Дискретна математика/Теоретико-множинні операції реляційної алгебри.md",
