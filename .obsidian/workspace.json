@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "62b88cc7f6e903ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da5f3da0b817fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1959970a2af81dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Розмітка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edcb73a8acb11008",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdac0784c6f785b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab7a746c1453135e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "940e03c6a76bd8bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c46a7ab5877935b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e70b3068e60a6e6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b33dd7a574bf6c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "079ddbf7a11e4f5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Розмітка.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02f43ffa37289e9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Розмітка.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6b76d42e0a833d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e67d3ff012b409c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Розмітка.md"
+              }
+            }
+          },
+          {
+            "id": "6eb51bfe10669e14",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1959970a2af81dee",
+  "lastOpenFiles": [
+    "Теорія ймовріності/Теорія ймовірності 1 модуль.md",
+    "Розмітка.md",
+    "Readme.md",
+    "Теорія ймовріності/Теорія ймовірності 2 модуль.md",
+    "Дискретна математика/Теоретико-множинні операції реляційної алгебри.md",
+    "Дискретна математика/Основні понняття теорії множин Алгебра множин.md",
+    "Дискретна математика/Мінімізація булевих функцій.md",
+    "Дискретна математика/Властивості бінарних відношень.md",
+    "Теорія ймовріності/Зображення/Без назви.md",
+    "Дискретна математика/Теорема Поста про функціональну повноту набору булової функції.md"
+  ]
+}
