@@ -11,12 +11,8 @@
             "id": "1959970a2af81dee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,15 +150,15 @@
   },
   "active": "1959970a2af81dee",
   "lastOpenFiles": [
+    "Тестовий файл для перевірки.md",
+    "Readme.md",
     "Розмітка.md",
     "Теорія ймовріності/Теорія ймовірності 1 модуль.md",
-    "Readme.md",
     "Теорія ймовріності/Теорія ймовірності 2 модуль.md",
     "Дискретна математика/Теоретико-множинні операції реляційної алгебри.md",
     "Дискретна математика/Основні понняття теорії множин Алгебра множин.md",
     "Дискретна математика/Мінімізація булевих функцій.md",
     "Дискретна математика/Властивості бінарних відношень.md",
-    "Теорія ймовріності/Зображення/Без назви.md",
-    "Дискретна математика/Теорема Поста про функціональну повноту набору булової функції.md"
+    "Теорія ймовріності/Зображення/Без назви.md"
   ]
 }
