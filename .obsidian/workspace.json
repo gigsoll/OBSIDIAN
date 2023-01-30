@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Розмітка.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Розмітка.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Розмітка.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Розмітка.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "1959970a2af81dee",
   "lastOpenFiles": [
-    "Теорія ймовріності/Теорія ймовірності 1 модуль.md",
     "Розмітка.md",
+    "Теорія ймовріності/Теорія ймовірності 1 модуль.md",
     "Readme.md",
     "Теорія ймовріності/Теорія ймовірності 2 модуль.md",
     "Дискретна математика/Теоретико-множинні операції реляційної алгебри.md",
