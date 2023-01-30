@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0e1ca886d09640d",
+        "id": "c8ae1544172b5d42",
         "type": "tabs",
         "children": [
           {
-            "id": "dae29dba87ddd7fe",
+            "id": "8b12650f4c5c61fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,6 +147,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dae29dba87ddd7fe",
-  "lastOpenFiles": []
+  "active": "8b12650f4c5c61fe",
+  "lastOpenFiles": [
+    "НМТ історія/Україна в перші повоєнні роки.md",
+    "НМТ історія/Інтенсив українська революція.md",
+    "Операції на множинах 462472fe362547929bdf6c8806650ef6/Untitled.png.md",
+    "Дискретна математика/Закони та властивості алгебри множин.md",
+    "Переглянути пізніше.md",
+    "Readme.md"
+  ]
 }
