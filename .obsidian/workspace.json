@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "857bc7f6cef96993",
+    "id": "c4be034b7546c50f",
     "type": "split",
     "children": [
       {
-        "id": "687cbc698b8fcbdc",
+        "id": "c7e2fc54c14e518a",
         "type": "tabs",
         "children": [
           {
-            "id": "9ba3dcbbe3eb85df",
+            "id": "b8530995c9d9727c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Переклади/Встановлення Arch linux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e837711e70662fb6",
+    "id": "11b7e786e032fc2a",
     "type": "split",
     "children": [
       {
-        "id": "93d3237fbed55a2e",
+        "id": "dca6784f0dde2a48",
         "type": "tabs",
         "children": [
           {
-            "id": "74505d1da208ef92",
+            "id": "3a6177f29daec951",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "7445c32cac256183",
+            "id": "9107a176bd09848e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "be2e7b20398f6a5f",
+            "id": "c7cd94a6d44110a0",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "af08bc103851c35f",
+    "id": "ce42ca690b3b38de",
     "type": "split",
     "children": [
       {
-        "id": "d9e3f42f849f82dd",
+        "id": "af9cae59fb03c139",
         "type": "tabs",
         "children": [
           {
-            "id": "79ee69726f186e9f",
+            "id": "cbda4b7b580ef89c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Переклади/Встановлення Arch linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "6ca6f9e2b9f5a053",
+            "id": "3ab1015df580453f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Переклади/Встановлення Arch linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "95f32eb281c7165e",
+            "id": "447e73cbcde99be6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +114,14 @@
             }
           },
           {
-            "id": "108459b2b15446e2",
+            "id": "7485fadc0d23dc99",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Переклади/Встановлення Arch linux.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,9 +138,8 @@
       "command-palette:Відкрити палітру команд": false
     }
   },
-  "active": "74505d1da208ef92",
+  "active": "b8530995c9d9727c",
   "lastOpenFiles": [
-    "Переглянути пізніше.md",
-    "Переклади/Встановлення Arch linux.md"
+    "Readme.md"
   ]
 }
