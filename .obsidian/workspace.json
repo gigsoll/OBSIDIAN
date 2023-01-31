@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "af08bc103851c35f",
@@ -130,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +147,9 @@
       "command-palette:Відкрити палітру команд": false
     }
   },
-  "active": "9ba3dcbbe3eb85df",
+  "active": "108459b2b15446e2",
   "lastOpenFiles": [
+    "Переглянути пізніше.md",
     "Встановлення Arch linux.md"
   ]
 }
