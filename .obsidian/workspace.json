@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e2fc54c14e518a",
+        "id": "1a142f60e98c9584",
         "type": "tabs",
         "children": [
           {
-            "id": "b8530995c9d9727c",
+            "id": "adb2eb6f8f90414c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ce42ca690b3b38de",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -120,12 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "6c92150696459886",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +147,10 @@
       "command-palette:Відкрити палітру команд": false
     }
   },
-  "active": "b8530995c9d9727c",
+  "active": "adb2eb6f8f90414c",
   "lastOpenFiles": [
+    "Переклади/Встановлення Arch linux.md",
+    "Переглянути пізніше.md",
     "Readme.md"
   ]
 }
