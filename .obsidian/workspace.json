@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "35fa34f0f909ca51",
         "type": "tabs",
         "children": [
@@ -13,6 +14,21 @@
             "state": {
               "type": "empty",
               "state": {}
+=======
+        "id": "2566686eb2bb1b9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "440c860e43689818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Переклади/Встановлення Arch linux.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -81,7 +97,12 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "collapseAll": false,
+=======
+                "file": "Переклади/Встановлення Arch linux.md",
+                "collapseAll": true,
+>>>>>>> Stashed changes
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,7 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "linksCollapsed": false,
+=======
+                "file": "Переклади/Встановлення Arch linux.md",
+                "linksCollapsed": true,
+>>>>>>> Stashed changes
                 "unlinkedCollapsed": true
               }
             }
@@ -118,6 +144,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
+=======
+              "state": {
+                "file": "Переклади/Встановлення Arch linux.md"
+              }
+            }
+          },
+          {
+            "id": "6c92150696459886",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+>>>>>>> Stashed changes
               "state": {}
             }
           }
@@ -138,6 +177,22 @@
       "command-palette:Відкрити палітру команд": false
     }
   },
+<<<<<<< Updated upstream
   "active": "4a631dfa36360069",
   "lastOpenFiles": []
+=======
+  "active": "440c860e43689818",
+  "lastOpenFiles": [
+    "Переклади/Оригінал з Arch wiki.md",
+    "Переклади/Встановлення Arch linux.md",
+    "канали чату Arch Linux.md",
+    "Переклади/Загальні рекомендації.md",
+    "НМТ історія/Україна в період загострення кризи радянської системи.md",
+    "НМТ історія/Тема 1 Перша світова війна.md",
+    "НМТ історія/Відновлення незалежності України (Перебудова).md",
+    "Назва нотатки.md",
+    "Розмітка.md",
+    "Без назви.canvas"
+  ]
+>>>>>>> Stashed changes
 }
