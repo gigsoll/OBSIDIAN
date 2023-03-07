@@ -1,34 +1,18 @@
 {
   "main": {
-    "id": "9c953efc9da83fca",
+    "id": "c4be034b7546c50f",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "35fa34f0f909ca51",
+        "id": "f049dc3632d843ec",
         "type": "tabs",
         "children": [
           {
-            "id": "4a631dfa36360069",
+            "id": "08d4fb452d5ff74b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-=======
-        "id": "2566686eb2bb1b9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "440c860e43689818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Переклади/Встановлення Arch linux.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> Stashed changes
             }
           }
         ]
@@ -37,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e56b59dfd96ee305",
+    "id": "11b7e786e032fc2a",
     "type": "split",
     "children": [
       {
-        "id": "726dfcd67818a6f0",
+        "id": "dca6784f0dde2a48",
         "type": "tabs",
         "children": [
           {
-            "id": "102200acb1c46d17",
+            "id": "3a6177f29daec951",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +39,7 @@
             }
           },
           {
-            "id": "08ecdbeed857406e",
+            "id": "9107a176bd09848e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +54,7 @@
             }
           },
           {
-            "id": "6582579837955d7f",
+            "id": "c7cd94a6d44110a0",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -81,55 +65,45 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "f7e89a9bb2d348e7",
+    "id": "ce42ca690b3b38de",
     "type": "split",
     "children": [
       {
-        "id": "a3d683dfbb5fb78c",
+        "id": "af9cae59fb03c139",
         "type": "tabs",
         "children": [
           {
-            "id": "0acfb9f17c951944",
+            "id": "cbda4b7b580ef89c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "collapseAll": false,
-=======
-                "file": "Переклади/Встановлення Arch linux.md",
                 "collapseAll": true,
->>>>>>> Stashed changes
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "e89abe177018d8f9",
+            "id": "3ab1015df580453f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "linksCollapsed": false,
-=======
-                "file": "Переклади/Встановлення Arch linux.md",
                 "linksCollapsed": true,
->>>>>>> Stashed changes
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "41a9fb402c587410",
+            "id": "447e73cbcde99be6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,15 +114,11 @@
             }
           },
           {
-            "id": "885f20ba43413f93",
+            "id": "7485fadc0d23dc99",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-=======
-              "state": {
-                "file": "Переклади/Встановлення Arch linux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +126,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
->>>>>>> Stashed changes
               "state": {}
             }
           }
@@ -164,35 +133,67 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню швидкого переходу": false,
-      "graph:Граф": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Сьогоднішня нотатка": false,
-      "templates:Вставити шаблон": false,
-      "command-palette:Відкрити палітру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:Create new canvas": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "4a631dfa36360069",
-  "lastOpenFiles": []
-=======
-  "active": "440c860e43689818",
+  "active": "3a6177f29daec951",
   "lastOpenFiles": [
-    "Переклади/Оригінал з Arch wiki.md",
-    "Переклади/Встановлення Arch linux.md",
     "канали чату Arch Linux.md",
-    "Переклади/Загальні рекомендації.md",
     "НМТ історія/Україна в період загострення кризи радянської системи.md",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2/photo_9_2023-01-09_22-27-05.jpg",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2/photo_9_2023-01-09_22-26-44.jpg",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2/photo_9_2023-01-09_22-26-17.jpg",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2/photo_9_2023-01-09_22-25-44.jpg",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2/photo_8_2023-01-09_22-27-05.jpg",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2/photo_8_2023-01-09_22-26-44.jpg",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2/photo_8_2023-01-09_22-26-17.jpg",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2/photo_8_2023-01-09_22-25-44.jpg",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2/photo_7_2023-01-09_22-27-05.jpg",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2/photo_7_2023-01-09_22-26-44.jpg",
+    "Теорія ймовріності/Таблиці/Захист 3.ods",
+    "Теорія ймовріності/Таблиці/Задача.ods",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 2",
+    "Теорія ймовріності/Зображення/ТЙ колоквіум 1",
+    "Теорія ймовріності/Теорія ймовірності 2 модуль.md",
+    "Теорія ймовріності/Теорія ймовірності 1 модуль.md",
+    "Теорія ймовріності/Таблиці",
+    "Теорія ймовріності/Зображення",
+    "Теорія ймовріності",
+    "Дискретна математика/Основні понняття теорії множин Алгебра множин.md",
+    "Дискретна математика/Основи математичної логіки та логіки висловлювань.md",
+    "Дискретна математика/Операції над відношеннями.md",
+    "Дискретна математика/Операції на множинах.md",
+    "Дискретна математика/Нормальне зображення булевої функції.md",
+    "Дискретна математика/Мінімізація булевих функцій.md",
+    "Дискретна математика/Множини та способи їх задання.md",
+    "Дискретна математика/Логіка предикатів.md",
+    "Дискретна математика/Зображення/Теоретико-множинні операції реляційної алгебри",
+    "Дискретна математика/Зображення/Теорема Поста про функціональну повноту набору булової функції",
+    "Дискретна математика/Зображення/Операції над відношеннями",
+    "Дискретна математика/Закони та властивості алгебри множин.md",
+    "Дискретна математика/Закони булової алгебри.md",
+    "Дискретна математика/Дезїюктивне та кон’юктивне розкладання булових функції.md",
+    "Дискретна математика/Геометрична інтерпритпція множин. Діаграма Венна та круги Еньюра.md",
+    "Дискретна математика/Властивості бінарних відношень.md",
+    "Дискретна математика/Булові функії та алгебра логіки.md",
+    "Дискретна математика/Бінарні та унарні перетворення.md",
+    "Дискретна математика/Алгебра Жегалкіна.md",
     "НМТ історія/Тема 1 Перша світова війна.md",
+    "Переклади/Встановлення Arch linux.md",
     "НМТ історія/Відновлення незалежності України (Перебудова).md",
     "Назва нотатки.md",
     "Розмітка.md",
     "Без назви.canvas"
   ]
->>>>>>> Stashed changes
 }
