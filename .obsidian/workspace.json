@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тестування ПЗ/Функціонал сайту ItechUA.md",
+                "file": "Розмітка.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тестування ПЗ/Функціонал сайту ItechUA.md",
+                "file": "Розмітка.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тестування ПЗ/Функціонал сайту ItechUA.md",
+                "file": "Розмітка.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестування ПЗ/Функціонал сайту ItechUA.md"
+                "file": "Розмітка.md"
               }
             }
           },
